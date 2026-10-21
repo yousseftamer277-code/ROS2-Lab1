@@ -2,10 +2,10 @@
 
 Design of Mechatronics Systems - Alexandria University
 
-Team members (add our names and IDs here before submitting):
-- Student 1:
-- Student 2:
-- Student 3:
+Team members :
+- Student 1: youssef tamer 9547
+- Student 2: adham ehab 9596
+- Student 3: yassin hamed 9544
 
 ## What we made
 
